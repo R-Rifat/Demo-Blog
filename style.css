@@ -13,8 +13,8 @@ border-style: solid;
 }
 
 .nav {
-position: relative;
-top: -170px;
+position: absolute;
+top: 10px;
 }
 
 .col-1 {
@@ -56,7 +56,7 @@ height: auto;
 }
 
 .img7 {
-width: 50%;
+width: 100%;
 height: auto;
 }
 
